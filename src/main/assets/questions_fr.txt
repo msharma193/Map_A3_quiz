@@ -1,0 +1,30 @@
+Le soleil est-il une planète ? | faux
+Les pingouins vivent-ils dans l'Arctique ? | faux
+Le noyau de la Terre est-il composé de fer liquide ? | vrai
+Les oiseaux ont-ils des dents ? | faux
+L'océan Pacifique est-il plus grand que l'océan Atlantique ? | vrai
+Les éléphants sont-ils les plus grands animaux terrestres sur Terre ? | vrai
+La Grande Muraille de Chine est-elle visible depuis la lune ? | faux
+Les tomates sont-elles classées parmi les fruits ? | vrai
+Le désert du Sahara est-il le désert le plus froid sur Terre ? | faux
+Les diamants sont-ils fabriqués à partir de charbon ? | faux
+Le corps humain est-il composé d'environ 70% d'eau ? | vrai
+Le son peut-il voyager dans le vide ? | faux
+Le Mont Everest est-il le plus haut sommet du monde ? | vrai
+Les alligators et les crocodiles sont-ils la même espèce ? | faux
+La lune a-t-elle son propre atmosphère ? | faux
+Pluton est-elle toujours considérée comme une planète ? | faux
+Les plantes effectuent-elles la photosynthèse la nuit ? | faux
+La Statue de la Liberté est-elle située à Washington D.C. ? | faux
+Le symbole chimique de l'hélium est-il "H" ? | faux
+Les papillons sont-ils des insectes ? | vrai
+Jupiter est-il la plus grande planète de notre système solaire ? | vrai
+Les humains peuvent-ils respirer sous l'eau en utilisant des branchies ? | faux
+L'éclair est-il plus chaud que la surface du soleil ? | vrai
+La Tour Eiffel est-elle en Italie ? | faux
+Les requins sont-ils des mammifères ? | faux
+Le fleuve Amazone est-il le plus long fleuve du monde ? | faux
+La devise du Canada est-elle l'euro ? | faux
+L'Antarctique est-il le continent le plus sec de la Terre ? | vrai
+Les serpents peuvent-ils entendre des sons ? | faux
+La vitesse de la lumière est-elle plus rapide que la vitesse du son ? | vrai

@@ -1,0 +1,30 @@
+Is the sun a planet? | false
+Do penguins live in the Arctic? | false
+Is the Earth's core made of liquid iron? | true
+Do birds have teeth? | false
+Is the Pacific Ocean larger than the Atlantic Ocean? | true
+Are elephants the largest land animals on Earth? | true
+Is the Great Wall of China visible from the moon? | false
+Are tomatoes classified as fruits? | true
+Is the Sahara Desert the coldest desert on Earth? | false
+Are diamonds made from coal? | false
+Is the human body made up of about 70% water? | true
+Can sound travel through a vacuum? | false
+Is Mount Everest the tallest mountain in the world? | true
+Are alligators and crocodiles the same species? | false
+Does the moon have its own atmosphere? | false
+Is Pluto still considered a planet? | false
+Do plants carry out photosynthesis during the night? | false
+Is the Statue of Liberty located in Washington D.C.? | false
+Is the chemical symbol for helium "H"? | false
+Are butterflies insects? | true
+Is Jupiter the largest planet in our solar system? | true
+Can humans breathe underwater using gills? | false
+Is lightning hotter than the surface of the sun? | true
+Is the Eiffel Tower in Italy? | false
+Are sharks mammals? | false
+Is the Amazon River the longest river in the world? | false
+Is the currency of Canada the euro? | false
+Is Antarctica the driest continent on Earth? | true
+Can snakes hear sounds? | false
+Is the speed of light faster than the speed of sound? | true

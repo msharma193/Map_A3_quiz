@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ألعاب ثقافية</string>
+    <string name="hello_blank_fragment">مرحبًا بك في الشاشة الفارغة</string>
+
+    <string name="true_button">صحيح</string>
+    <string name="false_button">خطأ</string>
+    <string name="dialog_quiz_completed_title">اكتمال الاختبار</string>
+    <string name="dialog_quiz_completed_message">تهانينا! لقد أكملت الاختبار.</string>
+    <string name="save_button">حفظ</string>
+    <string name="ignore_button">تجاهل</string>
+    <string name="toast_correct_answer">إجابة صحيحة!</string>
+    <string name="toast_incorrect_answer">إجابة خاطئة.</string>
+    <string name="toast_results_saved">تم حفظ النتائج.</string>
+    <string name="toast_results_ignored">تم تجاهل النتائج.</string>
+    <string name="current_language">اللغة الحالية</string>
+    <string name="current_language_arabic">اللغة الحالية</string>
+    <string name="menu_select_number_of_questions">اختر عدد الأسئلة</string>
+    <string name="menu_average">احصل على المتوسط</string>
+    <string name="menu_change_questions">تغيير الأسئلة</string>
+    <string name="menu_reset_results">إعادة تعيين النتائج</string>
+    <string name="menu_switch_language">تغيير اللغة</string>
+    <string name="menu_current_language">اللغة الحالية: %s</string>
+    <string name="menu_switch_language_english">تبديل اللغة إلى الإنجليزية</string>
+    <string name="menu_switch_language_arabic">تبديل اللغة إلى العربية</string>
+</resources>

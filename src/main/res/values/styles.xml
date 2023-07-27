@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This is a simple style that sets the background color to red. -->
+    <style name="RedBackground">
+        <item name="android:background">#FF0000</item>
+    </style>
+
+    <!-- This is a style that sets the text color to blue and the font size to 20sp. -->
+    <style name="BlueText">
+        <item name="android:textColor">#0000FF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light">
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#000000</item>
+        <item name="android:textColorHint">#808080</item>
+        <item name="android:textColorHighlight">#FFFF00</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+
+
+</resources>

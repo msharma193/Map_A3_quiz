@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="dialog_quiz_completed_title">Quiz Terminé</string>
+    <string name="dialog_quiz_completed_message">Félicitations ! Vous avez terminé le quiz.</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="ignore_button">Ignorer</string>
+    <string name="toast_correct_answer">Bonne réponse !</string>
+    <string name="toast_incorrect_answer">Mauvaise réponse.</string>
+    <string name="toast_results_saved">Résultats enregistrés.</string>
+    <string name="toast_results_ignored">Résultats ignorés.</string>
+    <string name="current_language">Langue actuelle</string>
+    <string name="current_language_arabic">اللغة الحالية</string>
+
+
+    <string name="menu_average">Obtenir la moyenne</string>
+    <string name="menu_change_questions">Changer de questions</string>
+    <string name="menu_reset_results">Réinitialiser les résultats</string>
+    <string name="menu_switch_language">Changer de langue</string>
+    <string name="menu_current_language">Langue actuelle : %s</string>
+    <string name="menu_switch_language_english">Passer à l\'anglais</string>
+    <string name="menu_switch_language_arabic">Passer à l\'arabe</string>
+    <string name="menu_select_number_of_questions">Sélectionnez le nombre de questions</string>
+
+</resources>
